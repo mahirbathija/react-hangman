@@ -2,9 +2,23 @@
   height: 100%;
   overflow: hidden;
   padding: 16px;
+  background-color:black;
 }
 
 .App .container {
   width: 500px;
   margin: 0 auto;
+}
+
+.Header {
+  color: white;
+}
+
+.NewGame {
+  color: white;
+  text-align: center;
+  margin-top: 20rem;
+  border: 2px solid white;
+  border-radius: 90px;
+  cursor: pointer;
 }

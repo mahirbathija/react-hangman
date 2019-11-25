@@ -19,6 +19,7 @@ const getHangmanParts = size => {
     canvasContext.beginPath();
     canvasContext.moveTo(0, size);
     canvasContext.lineTo(size, size);
+    canvasContext.strokeStyle = 'white';
     canvasContext.stroke();
   };
 
