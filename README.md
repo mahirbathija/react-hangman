@@ -7,9 +7,6 @@ I have used a couple packages that needed to be installed (e.g. randomWords). Yo
 Implement the classic [Hangman
 game](<https://en.wikipedia.org/wiki/Hangman_(game)>) in React.
 
-Feel free to use any tools and techniques that you would use in your
-day-to-day development.
-
 ## Requirements
 
 - Generate a random word for the player to guess
