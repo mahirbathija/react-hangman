@@ -10,13 +10,6 @@ game](<https://en.wikipedia.org/wiki/Hangman_(game)>) in React.
 Feel free to use any tools and techniques that you would use in your
 day-to-day development.
 
-## Instructions
-
-1. Generate a new **private** repo using this template repo.
-2. Provide your answers to your generated repo.
-3. Once your repo is ready for review, add `voleer-dev` as a collaborator for your repo.
-4. Wait for our response.
-
 ## Requirements
 
 - Generate a random word for the player to guess
