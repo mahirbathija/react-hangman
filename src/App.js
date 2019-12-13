@@ -90,7 +90,7 @@ class App extends React.Component {
                     guesses: [], 
                     gameState: GAME_STATE.IN,  
                     word: newRandomWord,
-                    chasLeft: newRandomWord
+                    charsLeft: newRandomWord
                   });
   }
 }
